@@ -1,0 +1,28 @@
+C:\Users\usuario\source\repos\WinFormsApp2\Entidaddes\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\usuario\source\repos\WinFormsApp2\Entidaddes\bin\Debug\net5.0\Entidades.dll
+C:\Users\usuario\source\repos\WinFormsApp2\Entidaddes\bin\Debug\net5.0\Entidades.pdb
+C:\Users\usuario\source\repos\WinFormsApp2\Entidaddes\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\WinFormsApp2\Entidaddes\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\WinFormsApp2\Entidaddes\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\WinFormsApp2\Entidaddes\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\usuario\source\repos\WinFormsApp2\Entidaddes\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\WinFormsApp2\Entidaddes\obj\Debug\net5.0\Entidades.dll
+C:\Users\usuario\source\repos\WinFormsApp2\Entidaddes\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\usuario\source\repos\WinFormsApp2\Entidaddes\obj\Debug\net5.0\Entidades.pdb
+C:\Users\usuario\source\repos\WinFormsApp2\Entidaddes\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\usuario\source\repos\WinFormsApp2\Entidaddes\obj\Debug\net5.0\Entidades.Properties.Resources.resources
+C:\Users\usuario\source\repos\WinFormsApp2\Entidaddes\obj\Debug\net5.0\Entidades.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Nueva carpeta (4)\GestionPacientes_conArchivos\GestionPacientes_conArchivos\Entidaddes\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\usuario\Desktop\Nueva carpeta (4)\GestionPacientes_conArchivos\GestionPacientes_conArchivos\Entidaddes\bin\Debug\net5.0\Entidades.dll
+C:\Users\usuario\Desktop\Nueva carpeta (4)\GestionPacientes_conArchivos\GestionPacientes_conArchivos\Entidaddes\bin\Debug\net5.0\Entidades.pdb
+C:\Users\usuario\Desktop\Nueva carpeta (4)\GestionPacientes_conArchivos\GestionPacientes_conArchivos\Entidaddes\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Nueva carpeta (4)\GestionPacientes_conArchivos\GestionPacientes_conArchivos\Entidaddes\obj\Debug\net5.0\Entidades.Properties.Resources.resources
+C:\Users\usuario\Desktop\Nueva carpeta (4)\GestionPacientes_conArchivos\GestionPacientes_conArchivos\Entidaddes\obj\Debug\net5.0\Entidades.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Nueva carpeta (4)\GestionPacientes_conArchivos\GestionPacientes_conArchivos\Entidaddes\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Nueva carpeta (4)\GestionPacientes_conArchivos\GestionPacientes_conArchivos\Entidaddes\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Nueva carpeta (4)\GestionPacientes_conArchivos\GestionPacientes_conArchivos\Entidaddes\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Nueva carpeta (4)\GestionPacientes_conArchivos\GestionPacientes_conArchivos\Entidaddes\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Nueva carpeta (4)\GestionPacientes_conArchivos\GestionPacientes_conArchivos\Entidaddes\obj\Debug\net5.0\Entidades.dll
+C:\Users\usuario\Desktop\Nueva carpeta (4)\GestionPacientes_conArchivos\GestionPacientes_conArchivos\Entidaddes\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\usuario\Desktop\Nueva carpeta (4)\GestionPacientes_conArchivos\GestionPacientes_conArchivos\Entidaddes\obj\Debug\net5.0\Entidades.pdb
+C:\Users\usuario\Desktop\Nueva carpeta (4)\GestionPacientes_conArchivos\GestionPacientes_conArchivos\Entidaddes\obj\Debug\net5.0\ref\Entidades.dll
