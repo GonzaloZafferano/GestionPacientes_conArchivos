@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\Nueva carpeta (4)\\GestionPacientes_conArchivos\\GestionPacientes_conArchivos\\Vista\\Vista.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\Nueva carpeta (5)\\GestionPacientes_conArchivos\\GestionPacientes_conArchivos\\Vista\\Vista.csproj",
       "projectName": "Vista",
-      "projectPath": "C:\\Users\\usuario\\Desktop\\Nueva carpeta (4)\\GestionPacientes_conArchivos\\GestionPacientes_conArchivos\\Vista\\Vista.csproj",
+      "projectPath": "C:\\Users\\usuario\\Desktop\\Nueva carpeta (5)\\GestionPacientes_conArchivos\\GestionPacientes_conArchivos\\Vista\\Vista.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\Desktop\\Nueva carpeta (4)\\GestionPacientes_conArchivos\\GestionPacientes_conArchivos\\Vista\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\Desktop\\Nueva carpeta (5)\\GestionPacientes_conArchivos\\GestionPacientes_conArchivos\\Vista\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\usuario\\Desktop\\Nueva carpeta (4)\\GestionPacientes_conArchivos\\GestionPacientes_conArchivos\\Entidaddes\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\usuario\\Desktop\\Nueva carpeta (4)\\GestionPacientes_conArchivos\\GestionPacientes_conArchivos\\Entidaddes\\Entidades.csproj"
+            "C:\\Users\\usuario\\Desktop\\Nueva carpeta (5)\\GestionPacientes_conArchivos\\GestionPacientes_conArchivos\\Entidaddes\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\usuario\\Desktop\\Nueva carpeta (5)\\GestionPacientes_conArchivos\\GestionPacientes_conArchivos\\Entidaddes\\Entidades.csproj"
             }
           }
         }

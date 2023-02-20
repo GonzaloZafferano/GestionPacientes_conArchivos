@@ -80,6 +80,7 @@
             this.Controls.Add(this.btnCerrar);
             this.Controls.Add(this.rTxt);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MinimizeBox = false;
             this.Name = "frmLeyenda";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Creacion de Leyenda";

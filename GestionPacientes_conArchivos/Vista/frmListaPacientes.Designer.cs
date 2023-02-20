@@ -94,6 +94,7 @@
             this.Controls.Add(this.btnAltaPaciente);
             this.Controls.Add(this.dgPacientes);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "frmListaPacientes";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Lista de Pacientes";

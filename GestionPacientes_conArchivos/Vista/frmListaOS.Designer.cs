@@ -95,6 +95,7 @@
             this.Controls.Add(this.btnCerrar);
             this.Controls.Add(this.dgOS);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "frmListaOS";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Lista de Obras Sociales";
